@@ -32,3 +32,16 @@ aws-nginx-terraform/
 ├── outputs.tf # Public IP output
 ├── variables.tf # AWS region variable
 ├── .gitignore # Ignores Terraform cache/state
+
+---
+
+## 🌐 How to Deploy
+
+1. **Clone this repo**
+2. Run `aws configure` (if you haven’t already)
+3. Run the following commands:
+
+```bash
+terraform init
+terraform plan
+terraform apply
