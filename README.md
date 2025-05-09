@@ -38,7 +38,7 @@ aws-nginx-terraform/
 ## 🌐 How to Deploy
 
 1. **Clone this repo**
-2. Run `aws configure` (if you haven’t already)
+2. Run `aws configure` 
 3. Run the following commands:
 
 ```bash
